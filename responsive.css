@@ -20,7 +20,7 @@
         height: auto;
         position: relative;
         left: 120px;
-        bottom: 700px;
+        bottom: 660px;
     }
     .btn{
         position: relative;
@@ -36,7 +36,7 @@
     #sec_3 .about{
         width: 500px;
         position: relative;
-        left: -170px;
+        left: 0px;
         top: -240px;
     }
     /* section-4 */

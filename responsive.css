@@ -172,6 +172,23 @@
         font-size: 20px;
         font-weight: normal;
     }
+    .footer .p,
+    .footer2 .p,
+    .footer3 .p{
+        animation: fromLeft1 5s alternate-reverse infinite;
+    }
+    @keyframes fromLeft1{
+        0%{
+            transform: translateX(0%)
+        }
+        50%{
+            transform: translateX(0%)
+            scale(1.5)
+        }
+        100%{
+            transform: translateX(0%);
+        }
+}
 }
 
     

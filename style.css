@@ -249,14 +249,14 @@ body{
 }
 @keyframes fromLeft1{
     0%{
-        transform: translateX(-300%)
+        transform: translateX(-100%)
     }
     50%{
         transform: translateX(0%)
         scale(1.5)
     }
     100%{
-        transform: translateX(300%);
+        transform: translateX(100%);
     }
 }
 .button .btn{
